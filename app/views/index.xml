@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<!-- <Label id="label" onClick="doClick">Hello, World</Label> -->
+		<WebView id="webview" url="http://jsrun.it/kjunichi/iakN"/>
+	</Window>
+</Alloy>
